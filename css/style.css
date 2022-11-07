@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+footer{
+    text-align: center;
+    align-items: flex-end;
+    color: cornsilk;
+}
+
+h2{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sorveteria{
+    padding: 40px;
+    text-align: center;
+    color: aliceblue;
+}
